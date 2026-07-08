@@ -1,3 +1,4 @@
+# Marcos Ariel Romero
 # Datos del usuario de prueba (usuario, contraseña, saldo inicial, estado de la cuenta)
 
 LIM_EXTRACCION = 170000
