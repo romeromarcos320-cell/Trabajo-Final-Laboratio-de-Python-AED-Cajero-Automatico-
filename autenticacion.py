@@ -1,11 +1,12 @@
+# Marcos Ariel Romero
 # Valida el usuario y la contraseña ingresados por el usuario
 # Niega el acesso despues de 3 intentos fallidos
 
-from data import cuentas_prueba, MAX_INTENTOS
+from datos import cuentas_prueba, MAX_INTENTOS
 
 def iniciar_sesion():
     print ("\n" + "=" * 40)
-    print ("SIMULADOR DE CAJERO AUTOMATICO")
+    print ("          SIMULADOR DE CAJERO AUTOMATICO")
     print ("=" * 40)
     
     usuario = input("Ingrese su nombre de usuario: ").strip().lower()
